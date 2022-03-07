@@ -1,0 +1,42 @@
+#body-main{
+    background-color: gray;
+}
+.head-main{
+    background-color: darkgray;
+    text-align: center;
+    font-family: Impact, "Haettenschweiler", 'Arial Narrow Bold', sans-serif;
+    
+}
+.link-main{
+    background-color: darkgray;
+    color:black;
+    font-family: Impact, "Haettenschweiler", 'Arial Narrow Bold', sans-serif;
+}
+#body-beans{
+    background-color: lightsalmon;
+    font-family: Impact, "Haettenschweiler", 'Arial Narrow Bold', sans-serif;
+}
+.head-beans, .subhead-beans, .desk-beans, .ingredients-beans, .steps-beans{
+    color:white;
+    background-color: salmon;
+    text-align: center;
+    font-family: Impact, "Haettenschweiler", 'Arial Narrow Bold', sans-serif;
+}
+.para-beans{
+    color:white;
+    font-family: Impact, "Haettenschweiler", 'Arial Narrow Bold', sans-serif;
+}
+li{
+    color:white;
+    font-family: Impact, "Haettenschweiler", 'Arial Narrow Bold', sans-serif;
+}
+
+.body-pizza{
+    background-color: peachpuff;
+}
+.head-pizza{
+    text-align: center;
+    color:white;
+    background-color: brown;
+    font-family: Impact, "Haettenschweiler", 'Arial Narrow Bold', sans-serif;
+}
