@@ -22,7 +22,7 @@
     text-align: center;
     font-family: Impact, "Haettenschweiler", 'Arial Narrow Bold', sans-serif;
 }
-.para-beans{
+.para-beans, .para-pizza{
     color:white;
     font-family: Impact, "Haettenschweiler", 'Arial Narrow Bold', sans-serif;
 }
@@ -34,9 +34,22 @@ li{
 .body-pizza{
     background-color: peachpuff;
 }
-.head-pizza{
+.head-pizza, .subhead-pizza, .desk-pizza, .ingredients-pizza, .steps-pizza {
     text-align: center;
     color:white;
     background-color: brown;
     font-family: Impact, "Haettenschweiler", 'Arial Narrow Bold', sans-serif;
+}
+
+.body-chicken{
+    background-color: gold;
+}
+.head-chicken, .subhead-chicken, .desk-chicken, .ingredients-chicken, .steps-chicken{
+    text-align: center;
+    color:white;
+    background-color: darkgoldenrod;
+    font-family: Impact, "Haettenschweiler", 'Arial Narrow Bold', sans-serif;
+}
+.para-chicken{
+    color:white;
 }
