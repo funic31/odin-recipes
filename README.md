@@ -4,6 +4,7 @@ This project is to practice my basic HTML skills that I have learned in The Odin
 * How to create a basic boilerplate
 * How to code a basic website in HTML
 * How to use git
+* How to use css
 **Self reflection**
 * Created 3 links to diferent pages
 * Added a list, an image, some headings etc
